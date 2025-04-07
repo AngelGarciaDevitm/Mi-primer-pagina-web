@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(230, 230, 230);
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+.aigr-text-center{
+    text-align: center;
+}
+.aigr-text-left{
+    text-align: left;
+}
+.aigr-text-right{
+    text-align: right;
+}
+.aigr-text-justify{
+    text-align: justify;
+}
+.aigr-text-bold{
+    font-weight: bold;
+}
